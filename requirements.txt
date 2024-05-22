@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+#faiss gpu for multiplle files
+langchain_google_genai
+# access api og google  gen using langchain
+
